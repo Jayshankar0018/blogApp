@@ -10,7 +10,7 @@ const Navbar = () => {
                 <div className="logo mx-4 w-[38px] overflow-hidden hover:w-[30%] transition-all duration-300 ease-in-out ml-[20vw]">
                     <h1 className='text-[60px] tracking-wider font-bold cursor-pointer' onClick={()=> {
                         navigate('/')
-                    }}>JAY</h1>
+                    }}>J A Y</h1>
                 </div>
             </div>
             <Outlet />
